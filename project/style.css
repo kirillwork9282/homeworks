@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.in-right{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    background-color: #DCF4C4;
+    opacity: 0.3;
+}
+
+.in-right:hover{
+    opacity: 1;
+}
