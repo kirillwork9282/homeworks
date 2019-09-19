@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10%;
+    background-color: #F0F0F0;
+    font-family: Arial;
+}
+
+.wrapper-all-product {
+    background-color: #fff;
+}
+
+.inline {
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.price {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+button {
+    display: block;
+    background-color: #ec744a;
+    border: none;
+    height: 50px;
+    width: 252px;
+    margin: 20px;
+    color: #ffffff;
+    font-size: 19px;
+    font-weight: 400;
+}
