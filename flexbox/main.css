@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    background-color: #f9f9f9;
+}
+
+.title-name {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 125px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.padding {
+    margin-top: 20px;
+}
+
+.card {
+    text-align: center;
+}
+
+.buy {
+    width: 200px;
+    height: 55px;
+    background-color: transparent;
+    color: #23bac1;
+    border: 1px solid #23bac1;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
